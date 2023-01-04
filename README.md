@@ -1,1 +1,1 @@
-a project foe css assignment
+a project for css
