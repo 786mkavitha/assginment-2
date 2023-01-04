@@ -24,9 +24,8 @@
    		 output = output + "</tr>";
    		 j = 1;
     }
-    output = output + "</table>";
-    document.write(output);
-    }
+    
+  
   </script>
 </head>
 <body>
