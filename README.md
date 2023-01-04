@@ -1,1 +1,1 @@
-a project for css
+a project in css
