@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Example</title>
+<style>
+	body {
+		background-image: url('/pix/samples/bg2.png');
+	}
+</style>
+</head>
+<body>
+
+<h1>Background Color</h1>
+<p>This page has a background image applied to the <a href="/html/tags/html_body_tag.cfm"><code>body</code></a> element.</p>
+<p> heloo</p>
+
+</body>
+</html>
